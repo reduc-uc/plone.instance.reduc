@@ -1,0 +1,14 @@
+*~
+*.tmproj
+.installed.cfg
+.mr.developer.cfg
+*.pyc
+bin
+etc
+src
+var
+eggs
+parts
+products
+downloads
+develop-eggs
